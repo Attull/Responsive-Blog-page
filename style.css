@@ -23,6 +23,7 @@ img {
 .container_1{
     width:100%;
     background-image:linear-gradient(to right, #e8e8e8,white);
+    border: 2px solid red;
 }
 
 /* navbar styling */
