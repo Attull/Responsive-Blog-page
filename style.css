@@ -2,7 +2,7 @@
     margin:0;
     padding: 0;
     box-sizing: border-box;
-    text-decoration: underline;
+    text-decoration: none;
   
 }
 
@@ -73,7 +73,7 @@ img {
 
 .navbar button:hover{
     color:orangered;
-    background:blue;
+    background:red;
     border:2px solid orangered;
     border-radius: 4px;
 }
