@@ -59,7 +59,8 @@ img {
 }
 
 .navbar button{
-    background-color:orangered;
+    background-color:green;
+    
     color:white;
     padding:0.7em 0.5em ;
     border:0;
