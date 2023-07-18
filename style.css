@@ -73,7 +73,7 @@ img {
 
 .navbar button:hover{
     color:orangered;
-    background:white;
+    background:blue;
     border:2px solid orangered;
     border-radius: 4px;
 }
